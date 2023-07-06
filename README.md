@@ -1,16 +1,18 @@
 <div id="header" align="center">
-  <img src="imgs/header.png"/>
+  <img src="imgs/header.png" style="border-radius: 10px;"/>
 </div>
 
 <div align="center">
+  
   <a href="https://www.codewars.com/users/goldh0rse">
-    <img src="https://www.codewars.com/users/goldh0rse/badges/large" alt="CodeWars Badge"/>
+    <img src="https://www.codewars.com/users/goldh0rse/badges/small" alt="CodeWars Badge"/>
   </a> 
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/klas-holmberg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=goldh0rse&style=flat-square&color=blue" alt="Counter"/>
 </div>
 
 # Hey there, I'm Klas Holmberg! 👋
