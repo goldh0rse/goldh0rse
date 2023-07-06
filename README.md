@@ -67,8 +67,3 @@ Or if you have any magic programmer jokes, such as:
 
 ## 📫 Get in touch
 Send me an 📧 at klas.holmberg@netlight.com.
-
-----
-
-
-⭐️ From [@goldh0rse](https://github.com/goldh0rse)
