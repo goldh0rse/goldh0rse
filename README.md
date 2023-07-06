@@ -17,7 +17,7 @@ Talk to me about:
 
 ## 📫 Get in touch
 
-- LinkedIn - [Your name](https://www.linkedin.com/in/your-name)
+- LinkedIn - [Klas Holmberg](https://www.linkedin.com/in/your-name)
 
 or give me a 📧 at klas.holmberg@netlight.com.
 
