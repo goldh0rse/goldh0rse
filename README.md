@@ -22,5 +22,5 @@ Talk to me about:
 or give me a 📧 at klas.holmberg@netlight.com.
 
 ----
-
-⭐️ From [@goldh0rse](https://github.com/goldh0rse) ![image](https://www.codewars.com/users/goldh0rse/badges/micro)
+ ![image](https://www.codewars.com/users/goldh0rse/badges/micro)
+⭐️ From [@goldh0rse](https://github.com/goldh0rse)
