@@ -19,8 +19,6 @@
 
 I'm a software developer who's passionate about turning ideas into reality, exploring new technologies, and all things where creativity thrives. 
 
-Currently, I'm sharpening my skills in GCP and Go. 🚀
-
 ## ⚡ Technologies
 
 <div>
