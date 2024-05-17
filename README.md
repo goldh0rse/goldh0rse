@@ -19,7 +19,7 @@
 
 I'm a software developer who's passionate about turning ideas into reality, exploring new technologies, and all things where creativity thrives. 
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -46,15 +46,15 @@ I'm a software developer who's passionate about turning ideas into reality, expl
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
-
+-->
 
 Talk to me about:
 
-- Backend development using **Node, Express, Flask, FastApi**
+- Backend development using **Golang, Node, FastApi**
 - Front-end development using **React, Polaris**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **AWS Cloud, GCP**
-- Solving Data structure and algorithm questions in **Python, C++, JavaScript**
+- Solving Data structure and algorithm questions in **Golang, Python, C++, JavaScript**
 - Small scale electronics/robotics projects
   
 Or if you have any magic programmer jokes, such as:
