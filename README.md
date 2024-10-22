@@ -51,7 +51,6 @@ I'm a software developer who's passionate about turning ideas into reality, expl
 Talk to me about:
 
 - Backend development using **Golang, Node, FastApi**
-- Front-end development using **React, Polaris**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **AWS Cloud, GCP**
 - Solving Data structure and algorithm questions in **Golang, Python, C++, JavaScript**
